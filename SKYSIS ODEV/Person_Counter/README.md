@@ -11,3 +11,5 @@ ultrasonic distance sensor.
 
 ### Visual
 ![Person Counter](https://user-images.githubusercontent.com/70448242/182263829-f27d617c-a08e-41a4-8ae9-1407667c7d67.png)
+
+!There is a problem with code
